@@ -1,0 +1,6 @@
+cloud=>aws
+ad586b62e3b5921bd86fe2efa4919208=>bucket
+access it and download the files
+analyze and extrack the flag.txt
+configure aws to presigning(unix date format)
+acces it

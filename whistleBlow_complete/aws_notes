@@ -1,0 +1,11 @@
+aws url format:https://<bucket-id>.s3.<region-code>.amazonaws.com
+aws command line:-
+aws listing files in a bucket:aws s3 ls s3://<bucketname>
+aws cp files from a bucket: aws s3 cp s3://<bucketname> <path_to_copy_the_files_in_the_system>
+aws presigning five params:-
+bucket
+object
+id
+key
+expiry
+format:https://<bucket>.s3.amazonaws.com/<object>?AWSAccessKeyId=<key>&Expires=<expiration>&Signature=<signature>

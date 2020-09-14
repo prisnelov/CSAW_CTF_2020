@@ -1,0 +1,3 @@
+can use hash length  extension attack 
+but need to decode and encode the unicode_characters as python default is set to utf-8
+the secret length key is 13
